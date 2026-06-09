@@ -58,3 +58,7 @@ model.py:
 
 base.py:
     ABC(abstract base classes): means parents class set rules which child classes must follow.
+
+decorator.py:
+    https://tenacity.readthedocs.io/en/latest/
+    https://realpython.com/primer-on-python-decorators/#a-few-real-world-examples
