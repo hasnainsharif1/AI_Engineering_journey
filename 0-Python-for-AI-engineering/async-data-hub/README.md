@@ -62,3 +62,13 @@ base.py:
 decorator.py:
     https://tenacity.readthedocs.io/en/latest/
     https://realpython.com/primer-on-python-decorators/#a-few-real-world-examples
+
+Activate and deactivate environment:
+    # create
+    python -m venv .venv
+
+    # activate
+    .venv\Scripts\activate
+
+    # deactivate
+    deactivate
